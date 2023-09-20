@@ -1,0 +1,25 @@
+2023-07-04 06:58:48 INFO com.base.Pyroframe.ListenersonStart:26 - *********************TESTSCRIPT EXECUTION IS STARTED******************
+  2023-07-04 06:58:48 INFO com.base.Pyroframe.ListenersonStart:26 - *********************TESTSCRIPT EXECUTION IS STARTED******************
+  2023-07-04 06:58:48 INFO com.base.Pyroframe.ListenersonStart:26 - *********************TESTSCRIPT EXECUTION IS STARTED******************
+  2023-07-04 06:58:56 INFO com.base.Pyroframe.ListenersonTestStart:32 - **********************login EXECUTION IS STARTED ******************
+  2023-07-04 06:58:56 INFO com.base.Pyroframe.ListenersonTestSkipped:50 - **********************login HAS BEEN SKIPPED ******************
+  2023-07-04 06:58:56 INFO com.base.Pyroframe.ListenersonFinish:55 - *********************TESTSCRIPT EXECUTION IS FINISHED******************
+  2023-07-04 06:58:57 INFO com.base.Pyroframe.ListenersonStart:26 - *********************TESTSCRIPT EXECUTION IS STARTED******************
+  2023-07-04 06:58:57 INFO com.base.Pyroframe.ListenersonTestStart:32 - **********************login EXECUTION IS STARTED ******************
+  2023-07-04 06:58:57 INFO com.base.Pyroframe.ListenersonTestSkipped:50 - **********************login HAS BEEN SKIPPED ******************
+  2023-07-04 06:58:57 INFO com.base.Pyroframe.ListenersonFinish:55 - *********************TESTSCRIPT EXECUTION IS FINISHED******************
+  2023-07-04 06:58:57 INFO com.base.Pyroframe.ListenersonTestStart:32 - **********************login EXECUTION IS STARTED ******************
+  2023-07-04 06:58:57 INFO com.base.Pyroframe.ListenersonTestSkipped:50 - **********************login HAS BEEN SKIPPED ******************
+  2023-07-04 06:58:57 INFO com.base.Pyroframe.ListenersonFinish:55 - *********************TESTSCRIPT EXECUTION IS FINISHED******************
+  2023-07-04 06:58:57 INFO com.base.Pyroframe.ListenersonStart:26 - *********************TESTSCRIPT EXECUTION IS STARTED******************
+  2023-07-04 06:58:57 INFO com.base.Pyroframe.ListenersonStart:26 - *********************TESTSCRIPT EXECUTION IS STARTED******************
+  2023-07-04 06:59:02 INFO com.base.Pyroframe.ListenersonTestStart:32 - **********************login EXECUTION IS STARTED ******************
+  2023-07-04 06:59:02 INFO com.base.Pyroframe.ListenersonTestSkipped:50 - **********************login HAS BEEN SKIPPED ******************
+  2023-07-04 06:59:02 INFO com.base.Pyroframe.ListenersonFinish:55 - *********************TESTSCRIPT EXECUTION IS FINISHED******************
+  2023-07-04 06:59:03 INFO com.base.Pyroframe.ListenersonTestStart:32 - **********************login EXECUTION IS STARTED ******************
+  2023-07-04 06:59:03 INFO com.base.Pyroframe.ListenersonTestSkipped:50 - **********************login HAS BEEN SKIPPED ******************
+  2023-07-04 06:59:03 INFO com.base.Pyroframe.ListenersonFinish:55 - *********************TESTSCRIPT EXECUTION IS FINISHED******************
+  2023-07-04 06:59:03 INFO com.base.Pyroframe.ListenersonTestStart:32 - **********************login EXECUTION IS STARTED ******************
+  2023-07-04 06:59:03 INFO com.base.Pyroframe.ListenersonTestSkipped:50 - **********************login HAS BEEN SKIPPED ******************
+  2023-07-04 06:59:03 INFO com.base.Pyroframe.ListenersonFinish:55 - *********************TESTSCRIPT EXECUTION IS FINISHED******************
+  

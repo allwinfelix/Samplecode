@@ -1,0 +1,21 @@
+2023-08-12 08:56:05 INFO com.base.Pyroframe.ListenersonStart:26 - *********************TESTSCRIPT EXECUTION IS STARTED******************
+  2023-08-12 08:56:15 INFO com.base.Pyroframe.ListenersonTestStart:32 - **********************login EXECUTION IS STARTED ******************
+  2023-08-12 08:56:16 INFO com.pages.Orange_hrm_loginusername:16 - Username is successfully entered
+  2023-08-12 08:56:17 INFO com.pages.Orange_hrm_loginpassword:21 - Password is successfully entered
+  2023-08-12 08:56:17 INFO com.pages.Orange_hrm_loginsubmit:25 - Submit button is successfully clicked
+  2023-08-12 08:56:20 INFO com.pages.Orange_hrm_loginrecuirment:30 - Recruitment button is successfully clicked
+  2023-08-12 08:56:21 INFO com.pages.Orange_hrm_loginselectjob:34 - Job dropdown arrow is successfully clicked
+  2023-08-12 08:56:21 INFO com.pages.Orange_hrm_loginselectjob:36 - Job  is successfully selected
+  2023-08-12 08:56:21 INFO com.base.Pyroframe.ListenersonTestSuccess:38 - **********************login COMPLETED SUCCESSFULLY ******************
+  2023-08-12 08:56:22 INFO com.base.Pyroframe.ListenersonFinish:55 - *********************TESTSCRIPT EXECUTION IS FINISHED******************
+  2023-08-12 08:56:22 INFO com.base.Pyroframe.ListenersonStart:26 - *********************TESTSCRIPT EXECUTION IS STARTED******************
+  2023-08-12 08:56:31 INFO com.base.Pyroframe.ListenersonTestStart:32 - **********************login EXECUTION IS STARTED ******************
+  2023-08-12 08:56:32 INFO com.pages.Orange_hrm_loginusername:16 - Username is successfully entered
+  2023-08-12 08:56:33 INFO com.pages.Orange_hrm_loginpassword:21 - Password is successfully entered
+  2023-08-12 08:56:34 INFO com.pages.Orange_hrm_loginsubmit:25 - Submit button is successfully clicked
+  2023-08-12 08:56:36 INFO com.pages.Orange_hrm_loginrecuirment:30 - Recruitment button is successfully clicked
+  2023-08-12 08:56:37 INFO com.pages.Orange_hrm_loginselectjob:34 - Job dropdown arrow is successfully clicked
+  2023-08-12 08:56:37 INFO com.pages.Orange_hrm_loginselectjob:36 - Job  is successfully selected
+  2023-08-12 08:56:37 INFO com.base.Pyroframe.ListenersonTestSuccess:38 - **********************login COMPLETED SUCCESSFULLY ******************
+  2023-08-12 08:56:38 INFO com.base.Pyroframe.ListenersonFinish:55 - *********************TESTSCRIPT EXECUTION IS FINISHED******************
+  

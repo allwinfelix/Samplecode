@@ -1,0 +1,9 @@
+2023-09-01 18:03:19 INFO com.base.Pyroframe.ListenersonStart:26 - *********************TESTSCRIPT EXECUTION IS STARTED******************
+  2023-09-01 18:03:19 INFO com.base.Pyroframe.ListenersonStart:26 - *********************TESTSCRIPT EXECUTION IS STARTED******************
+  2023-09-01 18:03:20 INFO com.base.Pyroframe.ListenersonTestStart:32 - **********************login EXECUTION IS STARTED ******************
+  2023-09-01 18:03:20 INFO com.base.Pyroframe.ListenersonTestSkipped:50 - **********************login HAS BEEN SKIPPED ******************
+  2023-09-01 18:03:20 INFO com.base.Pyroframe.ListenersonFinish:55 - *********************TESTSCRIPT EXECUTION IS FINISHED******************
+  2023-09-01 18:03:24 INFO com.base.Pyroframe.ListenersonTestStart:32 - **********************login EXECUTION IS STARTED ******************
+  2023-09-01 18:03:24 INFO com.base.Pyroframe.ListenersonTestSkipped:50 - **********************login HAS BEEN SKIPPED ******************
+  2023-09-01 18:03:24 INFO com.base.Pyroframe.ListenersonFinish:55 - *********************TESTSCRIPT EXECUTION IS FINISHED******************
+  

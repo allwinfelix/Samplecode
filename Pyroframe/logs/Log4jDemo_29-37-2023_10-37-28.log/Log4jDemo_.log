@@ -1,0 +1,9 @@
+2023-06-29 10:37:29 INFO com.base.Pyroframe.ListenersonStart:26 - *********************TESTSCRIPT EXECUTION IS STARTED******************
+  2023-06-29 10:37:29 INFO com.base.Pyroframe.ListenersonStart:26 - *********************TESTSCRIPT EXECUTION IS STARTED******************
+  2023-06-29 10:37:29 INFO com.base.Pyroframe.ListenersonTestStart:32 - **********************ts_001EXECUTION IS STARTED ******************
+  2023-06-29 10:37:29 INFO com.base.Pyroframe.ListenersonTestSkipped:50 - **********************ts_001HAS BEEN SKIPPED ******************
+  2023-06-29 10:37:29 INFO com.base.Pyroframe.ListenersonTestStart:32 - **********************ts_001EXECUTION IS STARTED ******************
+  2023-06-29 10:37:29 INFO com.base.Pyroframe.ListenersonFinish:55 - *********************TESTSCRIPT EXECUTION IS FINISHED******************
+  2023-06-29 10:37:29 INFO com.base.Pyroframe.ListenersonTestSkipped:50 - **********************ts_001HAS BEEN SKIPPED ******************
+  2023-06-29 10:37:29 INFO com.base.Pyroframe.ListenersonFinish:55 - *********************TESTSCRIPT EXECUTION IS FINISHED******************
+  

@@ -1,0 +1,19 @@
+2023-09-13 18:14:05 INFO com.base.Pyroframe.ListenersonStart:26 - *********************TESTSCRIPT EXECUTION IS STARTED******************
+  2023-09-13 18:14:14 INFO com.base.Pyroframe.ListenersonTestStart:32 - **********************login EXECUTION IS STARTED ******************
+  2023-09-13 18:14:15 INFO com.pages.Orange_hrm_loginusername:16 - Username is successfully entered
+  2023-09-13 18:14:15 INFO com.pages.Orange_hrm_loginpassword:21 - Password is successfully entered
+  2023-09-13 18:14:15 INFO com.pages.Orange_hrm_loginsubmit:25 - Submit button is successfully clicked
+  2023-09-13 18:14:18 INFO com.pages.Orange_hrm_loginrecuirment:30 - Recruitment button is successfully clicked
+  2023-09-13 18:14:18 INFO com.pages.Orange_hrm_loginselectjob:34 - Job dropdown arrow is successfully clicked
+  2023-09-13 18:14:28 INFO com.base.Pyroframe.ListenersonTestFailure:44 - **********************login HAS BEEN FAILED ******************
+  2023-09-13 18:14:29 INFO com.base.Pyroframe.ListenersonFinish:55 - *********************TESTSCRIPT EXECUTION IS FINISHED******************
+  2023-09-13 18:14:29 INFO com.base.Pyroframe.ListenersonStart:26 - *********************TESTSCRIPT EXECUTION IS STARTED******************
+  2023-09-13 18:14:38 INFO com.base.Pyroframe.ListenersonTestStart:32 - **********************login EXECUTION IS STARTED ******************
+  2023-09-13 18:14:39 INFO com.pages.Orange_hrm_loginusername:16 - Username is successfully entered
+  2023-09-13 18:14:39 INFO com.pages.Orange_hrm_loginpassword:21 - Password is successfully entered
+  2023-09-13 18:14:40 INFO com.pages.Orange_hrm_loginsubmit:25 - Submit button is successfully clicked
+  2023-09-13 18:14:42 INFO com.pages.Orange_hrm_loginrecuirment:30 - Recruitment button is successfully clicked
+  2023-09-13 18:14:43 INFO com.pages.Orange_hrm_loginselectjob:34 - Job dropdown arrow is successfully clicked
+  2023-09-13 18:14:53 INFO com.base.Pyroframe.ListenersonTestFailure:44 - **********************login HAS BEEN FAILED ******************
+  2023-09-13 18:14:54 INFO com.base.Pyroframe.ListenersonFinish:55 - *********************TESTSCRIPT EXECUTION IS FINISHED******************
+  

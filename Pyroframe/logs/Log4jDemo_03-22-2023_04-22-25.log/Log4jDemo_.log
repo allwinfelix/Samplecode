@@ -1,0 +1,15 @@
+2023-07-03 16:22:26 INFO com.base.Pyroframe.ListenersonStart:26 - *********************TESTSCRIPT EXECUTION IS STARTED******************
+  2023-07-03 16:22:32 INFO com.base.Pyroframe.ListenersonTestStart:32 - **********************loginEXECUTION IS STARTED ******************
+  2023-07-03 16:22:33 INFO com.pages.Orange_hrm_loginusername:19 - Username is successfully entered
+  2023-07-03 16:22:34 INFO com.pages.Orange_hrm_loginpassword:24 - Password is successfully entered
+  2023-07-03 16:22:34 INFO com.pages.Orange_hrm_loginsubmit:28 - Submit button successfully clicked
+  2023-07-03 16:22:38 INFO com.base.Pyroframe.ListenersonTestSuccess:38 - **********************loginCOMPLETED SUCCESSFULLY ******************
+  2023-07-03 16:22:38 INFO com.base.Pyroframe.ListenersonFinish:55 - *********************TESTSCRIPT EXECUTION IS FINISHED******************
+  2023-07-03 16:22:38 INFO com.base.Pyroframe.ListenersonStart:26 - *********************TESTSCRIPT EXECUTION IS STARTED******************
+  2023-07-03 16:22:45 INFO com.base.Pyroframe.ListenersonTestStart:32 - **********************loginEXECUTION IS STARTED ******************
+  2023-07-03 16:22:45 INFO com.pages.Orange_hrm_loginusername:19 - Username is successfully entered
+  2023-07-03 16:22:46 INFO com.pages.Orange_hrm_loginpassword:24 - Password is successfully entered
+  2023-07-03 16:22:46 INFO com.pages.Orange_hrm_loginsubmit:28 - Submit button successfully clicked
+  2023-07-03 16:22:50 INFO com.base.Pyroframe.ListenersonTestSuccess:38 - **********************loginCOMPLETED SUCCESSFULLY ******************
+  2023-07-03 16:22:50 INFO com.base.Pyroframe.ListenersonFinish:55 - *********************TESTSCRIPT EXECUTION IS FINISHED******************
+  
