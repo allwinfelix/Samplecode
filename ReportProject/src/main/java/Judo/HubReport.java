@@ -14,7 +14,7 @@ public class HubReport {
 		ExtentReports  report=new ExtentReports();
 		ExtentSparkReporter spark=new ExtentSparkReporter(".\\report\\reports.html");
 		report.attachReporter(spark);
-		String friend="The function";
+		
 		
 		
 		report.flush();
